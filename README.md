@@ -1,0 +1,2 @@
+# EffectiveRuby
+EffectiveRubyに出てくるやつを試す
